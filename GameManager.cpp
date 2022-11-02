@@ -67,4 +67,5 @@ void GameManager::play(){
         if(player2.paper)cout<<"Gra konczy sie zwyciestwem "<<player1.name;
         if(player2.scissors)cout<<"Gra konczy sie remisem!";
     }
+    cout<<endl;
 }
